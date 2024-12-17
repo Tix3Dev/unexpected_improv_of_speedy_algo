@@ -1,0 +1,10 @@
+C:\Users\yvesv\Documents\_LocalProjects\novel_star_state_decompositions\zxbarren-private\zxbarren\target\release\deps\libnum_complex-e86466c2381d61f6.rmeta: C:\Users\yvesv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.2\src\lib.rs C:\Users\yvesv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.2\src\cast.rs C:\Users\yvesv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.2\src\pow.rs C:\Users\yvesv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.2\src\complex_float.rs
+
+C:\Users\yvesv\Documents\_LocalProjects\novel_star_state_decompositions\zxbarren-private\zxbarren\target\release\deps\libnum_complex-e86466c2381d61f6.rlib: C:\Users\yvesv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.2\src\lib.rs C:\Users\yvesv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.2\src\cast.rs C:\Users\yvesv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.2\src\pow.rs C:\Users\yvesv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.2\src\complex_float.rs
+
+C:\Users\yvesv\Documents\_LocalProjects\novel_star_state_decompositions\zxbarren-private\zxbarren\target\release\deps\num_complex-e86466c2381d61f6.d: C:\Users\yvesv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.2\src\lib.rs C:\Users\yvesv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.2\src\cast.rs C:\Users\yvesv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.2\src\pow.rs C:\Users\yvesv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.2\src\complex_float.rs
+
+C:\Users\yvesv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.2\src\lib.rs:
+C:\Users\yvesv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.2\src\cast.rs:
+C:\Users\yvesv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.2\src\pow.rs:
+C:\Users\yvesv\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.2\src\complex_float.rs:
